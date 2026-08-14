@@ -1,0 +1,10 @@
+Week 1 - Python Basics Practice File
+------------------------------------
+Line 3: Variables, data types, operators
+Line 4: Control flow - if, elif, else
+Line 5: Loops - for and while
+Line 6: Functions and string handling
+Line 7: Lists, tuples, dictionaries, sets
+Line 8: File I/O and exception handling
+Line 9: Comprehensions
+Line 10: End of file - total lines should be 10

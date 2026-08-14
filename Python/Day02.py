@@ -1,4 +1,4 @@
-#Monday
+#Tuesday
 
 #while loops
 i = 0
