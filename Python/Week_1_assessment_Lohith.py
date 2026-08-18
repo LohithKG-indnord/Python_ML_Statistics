@@ -23,11 +23,8 @@ def vowels(sentence):
     for x in sentence:
         if x in vow:
             count += 1
-        return count
+    return count
     
-        rev.append(X)
-
-    return rev
 
 n = input()
 print(vowels(n))
@@ -62,4 +59,5 @@ except:
 
 def my_func(*num):
     for i in range(len(num)):
-        
+        pass
+my_func(num)
