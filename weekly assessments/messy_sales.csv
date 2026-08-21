@@ -1,0 +1,16 @@
+Customer Name , order_ID,E-Mail Address,  Signup Date ,Order Total,Qty,Country,Status
+  Aisha Rahman ,1001, AISHA.R@example.COM ,2023-01-15,"1,250.00",3,india,shipped
+Ben Okafor,1002,ben.okafor@example.com ,15/02/2023,899.50,2,IN,Shipped
+ben okafor,1002,ben.okafor@example.com,15/02/2023,899.50,2,IN,Shipped
+Chen  Wei,1003,chen.wei@example.com,2023-03-01,,1,China,PENDING
+,1004,d.mehta@example.com,2023-03-12,45.00,1,India,pending
+Diya Mehta,1004,D.MEHTA@EXAMPLE.COM,2023-03-12,45.00,1,India,pending
+Elena Novak ,1005,elena.novak@example,2023-04-02,2300,4,czechia,cancelled
+Farhan Ali,1006,farhan.ali@example.com,not available,780.25,two,India,shipped
+Grace Lin,1007,grace.lin@example.com,2023-05-20,-99.00,1,china,SHIPPED
+Hiro  Tanaka,1008,hiro.tanaka@example.com,2023-06-11,1500.75,5,Japan,delivered
+Ivy Chen,1009,,2023-07-04,320.10,2,JP,Delivered
+Jonas Berg,1010,jonas.berg@example.com,2023-08-19,"12,000.00",1,Sweden,n/a
+Kavya  Nair ,1011,kavya.nair@example.com,2023-09-01,610.00,3,INDIA,shipped
+Liam O'Brien,1012,liam.obrien@example.com,2023-10-23,,0,Ireland,Cancelled
+Mei  Zhang,1013,MEI.ZHANG@Example.com ,2023-11-30,455.40,2,CN,pending
